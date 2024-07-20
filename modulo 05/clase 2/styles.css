@@ -1,0 +1,23 @@
+.count-down-head {
+  text-align: center;
+  color: salmon;
+}
+
+.count-down-container {
+  display: flex;
+  justify-content: center;
+  margin: 1rem;
+}
+
+.count-down {
+  padding: 1rem;
+  background: black;
+  color: salmon;
+  width: fit-content;
+  border-radius: 5%;
+  border: 2px solid salmon;
+}
+
+.count-down-s {
+  font-size: 2rem;
+}
