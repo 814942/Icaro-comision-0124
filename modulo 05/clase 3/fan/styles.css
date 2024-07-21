@@ -1,49 +1,8 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: red;
-}
-
 .fan-img {
   padding: 50px;
   border-radius: 50%;
   animation: fanani linear infinite;
   transition-duration: .7s;
-}
-
-.buttons-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 1rem;
-}
-
-.button {
-  height: 100px;
-  width: 100px;
-  border-radius: 100%;
-  background: azure;
-  border: 1px solid rgb(9, 135, 135);
-}
-
-.on {
-  background-color: darkgreen;
-  color: whitesmoke;
-  border: 1px solid rgb(240, 255, 255);
-}
-
-.off {
-  background-color: red;
-  color: whitesmoke;
-  border: 1px solid azure;
 }
 
 @keyframes fanani {
