@@ -1,6 +1,0 @@
-clase 3 selector y eventos
-clase 4 formularios
-clase 5 async - poke api - todo app
-clase 6 simposon/ rickandmorty api
-clase 7 TS
-clase 8 TS ++
