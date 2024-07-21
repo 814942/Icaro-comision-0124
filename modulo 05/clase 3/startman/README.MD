@@ -1,5 +1,4 @@
 # STARMAN
-<!-- ![Starman](/clase%203/astronauta.png "Starman") -->
 <p ba>
   <img height="200" src="./astronauta.png" />
 </p>
