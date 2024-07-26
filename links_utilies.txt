@@ -1,0 +1,6 @@
+Eventos:
+https://www.freecodecamp.org/news/javascript-in-the-browser-dom-and-events/
+Selectores:
+https://www.freecodecamp.org/news/how-to-avoid-frustration-by-choosing-the-right-javascript-selector-73c64c3906b6/
+Como diseñar una API REST:
+https://restfulapi.net/rest-api-design-tutorial-with-example/
