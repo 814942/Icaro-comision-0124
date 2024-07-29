@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --main-bg-color: #16161b;
+  --light-grey: #f5f6f7;
+  --dark-purple: #5a01a7;
+  --golden-yellow: #feac32;
+}
+
+body {
+  background-color: var(--main-bg-color);
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  color: var(--light-grey);
+  margin: 20px 0;
+}
+
+.poke-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.poke-card {
+  border-radius: 15px;
+  width: 300px;
+  height: 350px;
+  background-color: var(--light-grey);
+  margin: 20px;
+}
+
+.poke-img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.poke-name {
+  margin: 10px;
+}
+
+.btn.disabled {
+  cursor: not-allowed;
+}
+
+.btn {
+  cursor: pointer;
+  width: 200px;
+  height: 100px;
+  margin: 30px;
+  color: var(--light-grey);
+  background-color: var(--golden-yellow);
+  background-image: linear-gradient(#fecc4c, #ffac33);
+  border-color: var(--golden-yellow);
+  border-width: 3px;
+  box-shadow: 5px 5px 5px var(--light-grey);
+}
