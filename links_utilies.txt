@@ -4,3 +4,5 @@ Selectores:
 https://www.freecodecamp.org/news/how-to-avoid-frustration-by-choosing-the-right-javascript-selector-73c64c3906b6/
 Como diseñar una API REST:
 https://restfulapi.net/rest-api-design-tutorial-with-example/
+Certificado Desarrolo web responsive
+https://www.freecodecamp.org/learn/2022/responsive-web-design/
