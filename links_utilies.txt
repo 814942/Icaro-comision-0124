@@ -6,3 +6,5 @@ Como diseñar una API REST:
 https://restfulapi.net/rest-api-design-tutorial-with-example/
 Certificado Desarrolo web responsive
 https://www.freecodecamp.org/learn/2022/responsive-web-design/
+Guia de seguridad para APIs
+https://www.freecodecamp.org/news/web-api-security-guide/
