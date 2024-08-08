@@ -1,0 +1,12 @@
+{
+  "name": "clase-7",
+  "version": "1.0.0",
+  "description": "* Instalar TS con el comando: `npm install -g typescript` * Crear un nuevo proyecto: `npm init -y`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
