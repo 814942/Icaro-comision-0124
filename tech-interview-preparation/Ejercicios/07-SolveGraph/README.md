@@ -1,10 +1,3 @@
-
-
-<p>
-        <img src='https://static.wixstatic.com/media/85087f_0d84cbeaeb824fca8f7ff18d7c9eaafd~mv2.png/v1/fill/w_160,h_30,al_c,q_85,usm_0.66_1.00_0.01/Logo_completo_Color_1PNG.webp' </img>
-</p>
-
-
 # Solve Graph
 ## Introducción
 Un grafo/graph es un set de vertices conectados entre ellos por aristas.
@@ -121,6 +114,3 @@ solveGraphBFS(graph, 's', 'b'); // false
 Complejidad Temporal | Complejidad Espacial
 --|--
 O(n)|O(n)
-
-## Código
-Pueden encontrar las soluciones recién mencionadas en el siguiente [link](https://repl.it/JuS9).

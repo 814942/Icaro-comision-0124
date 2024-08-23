@@ -1,10 +1,3 @@
-
-
-<p>
-        <img src='https://static.wixstatic.com/media/85087f_0d84cbeaeb824fca8f7ff18d7c9eaafd~mv2.png/v1/fill/w_160,h_30,al_c,q_85,usm_0.66_1.00_0.01/Logo_completo_Color_1PNG.webp' </img>
-</p>
-
-
 # Find Word Starting With
 ## Introducción
 Dado un "libro" y un string para buscar,  devolver todos los indices donde la palabra empieza con ese string.   
@@ -157,6 +150,3 @@ O(n+m)|O(1)
 Complejidad Temporal | Complejidad Espacial
 --|--
 O(m)|O(1
-
-## Código
-Pueden encontrar las soluciones recién mencionadas en el siguiente [link](https://repl.it/JvdR/9).

@@ -1,10 +1,3 @@
-
-
-<p>
-        <img src='https://static.wixstatic.com/media/85087f_0d84cbeaeb824fca8f7ff18d7c9eaafd~mv2.png/v1/fill/w_160,h_30,al_c,q_85,usm_0.66_1.00_0.01/Logo_completo_Color_1PNG.webp' </img>
-</p>
-
-
 # Decimal to Binary
 ## Introducción
 En el caso anterior transformábamos números binarios en decimales. En este caso hay que **hacer una función que tome un numero decimal y lo devuelva en binario**
@@ -38,5 +31,3 @@ const decimalToBinaryRec = (num) => {
     return '';
 }
 ```
-## Código
-Pueden encontrar las soluciones recién mencionadas en el siguiente [link](https://repl.it/KDLz/1).

@@ -1,8 +1,5 @@
-const mdArraySum = (arr) =>
-  arr.reduce(
-    (total, elemAct) =>
-      total + (Array.isArray(elemAct) ? mdArraySum(elemAct) : elemAct),
-    0
-  );
+function mdArraySum() {
+  // Your code here:
+}
 
 module.exports = mdArraySum;

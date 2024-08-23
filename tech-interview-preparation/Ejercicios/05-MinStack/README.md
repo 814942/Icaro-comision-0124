@@ -1,9 +1,3 @@
-
-
-<p>
-        <img src='https://static.wixstatic.com/media/85087f_0d84cbeaeb824fca8f7ff18d7c9eaafd~mv2.png/v1/fill/w_160,h_30,al_c,q_85,usm_0.66_1.00_0.01/Logo_completo_Color_1PNG.webp' </img>
-</p>
-
 # Min Stack
 ## Introducción
 Para poder comprender el objetivo de esta actividad necesitamos saber **¿Qué es un stack?** Un stack, también conocido como pila es **LIFO** (Last-In First-Out), es decir, el último en entrar es el primero en salir.       
@@ -104,6 +98,3 @@ class MinStack extends Stack{
 
 ## Complejidad Espacial
 La complejidad espacial del ejercicio sigue siendo de O(n) con la diferencia que ahora almacenamos el doble de la información, O(2n)
-
-## Código
-Pueden encontrar las soluciones recién mencionadas en el siguiente [link](https://repl.it/JqWw).
